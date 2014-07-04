@@ -1,0 +1,71 @@
+span#nieuwekaart{
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    background-color: #84c4ff;
+    border-radius:20px;
+    border: none;
+    margin-left: 80px;
+    color: white;
+    position: absolute;
+    top: 70px;
+    font-size: medium;
+    text-align: center;
+    font-family: Georgia;
+}
+span#stop{
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    border-radius:20px;
+    border: none;
+    color: white;
+    position: absolute;
+    top: 70px;
+    margin-left: 280px;
+    font-size: medium;
+    text-align: center;
+    font-family: Georgia;
+
+}
+div#message{
+     margin-top: 140px;
+     margin-left: 100px;
+     color: #ff8400;
+     font-family: Georgia;
+     font-size: x-large;
+}
+div#bg{
+    background-color: #8f5e00;
+    width: 550px;
+    height: 400px;
+    margin-top: 40px;
+}
+div#speler{
+    width: 80px;
+    height: 120px;
+    margin-left: 70px;
+    margin-top: 40px;
+    float: left;
+    border-radius: 20px;
+    text-align: center;
+    background-color: white;
+}
+div#bank{
+    width: 80px;
+    height: 120px;
+    margin-left: 100px;
+    margin-top: 40px;
+    float: left;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #ff8400;
+}
+div#speler
+{
+    color: black;
+}
+div#bank{
+    color: white;
+}
